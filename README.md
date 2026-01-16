@@ -4,8 +4,7 @@
 **Status:** Preprint manuscript in preparation for submission.  
 **Core Prediction:** σ₈ ≈ 0.75 (falsifiable by Euclid/Rubin/Lyman-α forest data).
 
-## 📄 Manuscript
-The current draft of the paper is available here: [manuscript/main.pdf](manuscript/main.pdf)
+
 
 ### Abstract
 We present a recursive dynamical system on high-dimensional complex matrix spaces that converges to stable fixed points under minimal normalization constraints. Without any enforcement of agreement with observed physics, the system produces a universe-like attractor that deviates in specific, testable ways from ΛCDM and the Standard Model. In particular, it generically predicts a warmer sterile-neutrino dark matter sector, suppressed small-scale structure (σ₈ = 0.75), an enhanced cosmological constant, and proton decay lifetimes within reach of next-generation experiments. These deviations arise unavoidably from the bare recursion (a stripped-down version of the Unified Recursive Feedback Equation, URFE, without phenomenological "Truth Filters" that previously enforced physicality). The model is decisively falsifiable by current and near-future observations (e.g., Euclid/Rubin on σ₈). This reframes the approach as a computationally intensive, risk-bearing cosmological hypothesis comparable to lattice QCD or numerical relativity, where physical law emerges as a stable fixed point of a computational process.
